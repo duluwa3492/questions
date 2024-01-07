@@ -1,0 +1,236 @@
+Question: If all the sides of a square are doubled in length, how does the area change?
+
+A) Doubles
+B) Quadruples
+C) Halves
+D) Stays the same
+Question: Which number is the odd one out?
+
+A) 2
+B) 3
+C) 6
+D) 9
+Question: If a shirt costs $20 after a 25% discount, what was its original price?
+
+A) $10
+B) $15
+C) $25
+D) $30
+Question: What comes next in the sequence: 2, 4, 8, 16, ...?
+
+A) 20
+B) 24
+C) 32
+D) 64
+Question: If the day after tomorrow is a Sunday, what day is it today?
+
+A) Monday
+B) Tuesday
+C) Saturday
+D) Friday
+Question: If 3 apples and 2 oranges cost $5, and 2 apples and 3 oranges cost $6, what is the cost of one apple?
+
+A) $1
+B) $2
+C) $3
+D) $4
+Question: Which of the following words is least like the others?
+
+A) Square
+B) Circle
+C) Triangle
+D) Oval
+Question: If a clock shows 3:15, what is the angle between the hour and minute hands?
+
+A) 0 degrees
+B) 45 degrees
+C) 90 degrees
+D) 180 degrees
+Question: What is the missing number in the sequence: 5, 10, 15, __, 25?
+
+A) 18
+B) 20
+C) 22
+D) 30
+Question: If a bookshelf has 5 shelves, and each shelf can hold 8 books, how many books can the entire bookshelf hold?
+
+A) 20
+B) 30
+C) 40
+D) 50
+_____________________________________________________________________________
+
+MEDIUM
+Question: If a car travels 60 miles in 1 hour, what is its average speed in miles per hour?
+
+A) 30
+B) 45
+C) 60
+D) 75
+Question: What is the next number in the series: 2, 6, 12, 20, ...?
+
+A) 30
+B) 24
+C) 32
+D) 36
+Question: If CAT is coded as 312, how is DOG coded?
+
+A) 412
+B) 512
+C) 612
+D) 712
+Question: What is the missing number in the sequence: 5, 10, __, 30, 40?
+
+A) 15
+B) 20
+C) 25
+D) 35
+Question: A clock reads 3:45. What is the angle between the hour and minute hands?
+
+A) 15 degrees
+B) 30 degrees
+C) 45 degrees
+D) 60 degrees
+Question: If a shirt costs $40 after a 20% discount, what was its original price?
+
+A) $30
+B) $45
+C) $50
+D) $60
+Question: Which number is the odd one out?
+
+A) 9
+B) 16
+C) 25
+D) 36
+Question: If MANGO is coded as 713142, how is APPLE coded?
+
+A) 116165
+B) 151613
+C) 514141
+D) 111615
+Question: What comes next in the sequence: 3, 6, 12, 24, ...?
+
+A) 36
+B) 42
+C) 48
+D) 54
+Question: If a rectangle has a length of 8 units and a width of 6 units, what is its perimeter?
+
+A) 14 units
+B) 20 units
+C) 28 units
+D) 48 units
+
+
+_____________________________________________________________________________
+
+HARD
+Question: In a group of people, if each person shakes hands with every other person exactly once, and there are a total of 28 handshakes, how many people are in the group?
+
+A) 6
+B) 7
+C) 8
+D) 9
+
+Question: If the product of three consecutive integers is 210, what are the integers?
+
+A) 5, 6, 7
+B) 6, 7, 8
+C) 9, 10, 11
+D) 10, 11, 12
+Question: What is the sum of the angles in a hexagon?
+
+A) 540 degrees
+B) 600 degrees
+C) 720 degrees
+D) 900 degrees
+Question: If a train travels 300 miles at an average speed of 60 miles per hour, how many hours does it take to complete the journey, including stops?
+
+A) 4
+B) 5
+C) 6
+D) 7.5
+
+Question: If a cube has a volume of 64 cubic units, what is the length of one side?
+
+A) 2 units
+B) 3 units
+C) 4 units
+D) 6 units
+
+Question: If the sum of the reciprocals of two consecutive odd integers is 7/30, what are the integers?
+
+A) 7, 9
+B) 9, 11
+C) 11, 13
+D) 13, 15
+
+Question: If a clock reads 12:15, what is the acute angle between the hour and minute hands?
+
+A) 15 degrees
+B) 30 degrees
+C) 45 degrees
+D) 60 degrees
+
+Question: What is the largest prime number less than 50?
+
+A) 41
+B) 43
+C) 47
+D) 50 
+
+Question: How many factors does the number 36 have?
+
+A) 4
+B) 6
+C) 8
+D) 9
+
+Question: What is the probability of getting two heads when flipping a fair coin three times?
+
+A)1/4
+B)1/3
+C)1/2
+D)2/3
+
+​
+_____________________________________________________________________________
+
+
+EASY
+B) Quadruples
+D) 9
+A) $10
+C) 32
+C) Saturday
+A) $1
+D) Oval
+B) 45 degrees
+B) 20
+C) 40
+
+
+MEDIUM
+C) 60
+B) 24
+D) 712
+C) 25
+C) 45 degrees
+C) $50
+D) 36
+A) 116165
+C) 48
+C) 28 units
+
+HARD
+C) 8
+A) 5, 6, 7
+C) 720 degrees
+C) 6
+B) 3 units
+D) 13, 15
+C) 45 degrees
+C) 47
+C) 8
+D) 2/3

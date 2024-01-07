@@ -1,0 +1,233 @@
+EASY
+Question: What is the chemical symbol for water?
+
+A) O2
+B) H2O
+C) CO2
+D) N2
+Question: Which planet is known as the "Red Planet"?
+
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Question: What is the powerhouse of the cell?
+
+A) Nucleus
+B) Mitochondria
+C) Ribosome
+D) Endoplasmic reticulum
+Question: Which gas do plants absorb from the atmosphere during photosynthesis?
+
+A) Oxygen
+B) Nitrogen
+C) Carbon dioxide
+D) Hydrogen
+Question: What is the chemical symbol for gold?
+
+A) Gd
+B) Au
+C) Ag
+D) Fe
+Question: What force pulls objects towards the center of the Earth?
+
+A) Friction
+B) Gravity
+C) Magnetism
+D) Tension
+Question: Which gas makes up the majority of Earth's atmosphere?
+
+A) Oxygen
+B) Nitrogen
+C) Carbon dioxide
+D) Helium
+Question: What is the primary function of the human heart?
+
+A) Pumping blood
+B) Digesting food
+C) Filtering water
+D) Storing energy
+Question: What is the closest star to Earth?
+
+A) Alpha Centauri
+B) Proxima Centauri
+C) Betelgeuse
+D) Sirius
+Question: Which of the following is a renewable source of energy?
+
+A) Coal
+B) Solar
+C) Natural gas
+D) Nuclear
+
+
+_____________________________________________________________________________
+
+MCQ related to science MEDIUM
+
+
+Question: What is the main function of the pancreas in the human body?
+
+A) Digestion
+B) Regulation of blood sugar
+C) Filtration of blood
+D) Oxygen transport
+Question: What is the chemical formula for methane?
+
+A) CH3
+B) CO2
+C) H2O
+D) NH3
+Question: Which element is essential for forming organic molecules in living organisms?
+
+A) Nitrogen
+B) Carbon
+C) Oxygen
+D) Hydrogen
+Question: What is the process by which plants make their own food using sunlight?
+
+A) Respiration
+B) Photosynthesis
+C) Transpiration
+D) Fermentation
+Question: In the electromagnetic spectrum, which type of radiation has the shortest wavelength?
+
+A) Infrared
+B) Ultraviolet
+C) X-rays
+D) Radio waves
+Question: What is the function of red blood cells in the human body?
+
+A) Carrying oxygen
+B) Fighting infections
+C) Digesting food
+D) Producing hormones
+Question: Which scientist is known for the laws of motion and universal gravitation?
+
+A) Albert Einstein
+B) Isaac Newton
+C) Galileo Galilei
+D) Nikola Tesla
+Question: What is the primary component of Earth's atmosphere responsible for protecting life from harmful solar radiation?
+
+A) Nitrogen
+B) Oxygen
+C) Ozone
+D) Carbon dioxide
+Question: Which subatomic particle carries a negative charge?
+
+A) Proton
+B) Neutron
+C) Electron
+D) Positron
+Question: What is the largest organ in the human body?
+
+A) Heart
+B) Liver
+C) Skin
+D) Lungs
+
+_____________________________________________________________________________
+HARD
+
+Question: In quantum mechanics, what does the Heisenberg Uncertainty Principle state?
+
+A) You cannot know the position and momentum of a particle simultaneously
+B) Electrons can exist in multiple states at once
+C) Energy and time are always uncertain
+D) The speed of light is constant in a vacuum
+Question: Which of the following particles is not a baryon?
+
+A) Proton
+B) Neutron
+C) Lambda baryon
+D) Electron
+Question: What is the concept of "dark matter" in astrophysics?
+
+A) Invisible matter that emits no light
+B) Highly dense matter found in black holes
+C) Matter composed of antimatter particles
+D) Exotic matter with negative mass
+Question: Which phenomenon is responsible for the bending of light as it passes through a medium with varying density?
+
+A) Diffraction
+B) Refraction
+C) Reflection
+D) Dispersion
+Question: What is the name of the process by which a star exhausts its nuclear fuel and collapses under its own gravity?
+
+A) Nuclear fusion
+B) Supernova
+C) Black hole formation
+D) Stellar nucleosynthesis
+Question: What is the primary function of the Higgs boson in particle physics?
+
+A) Transmitting electromagnetic force
+B) Giving mass to elementary particles
+C) Mediating strong nuclear force
+D) Inducing radioactive decay
+Question: Which geological era is known as the "Age of Dinosaurs"?
+
+A) Paleozoic Era
+B) Mesozoic Era
+C) Cenozoic Era
+D) Precambrian Era
+Question: What is the main principle behind the operation of a scanning tunneling microscope (STM)?
+
+A) Quantum entanglement
+B) Tunneling effect of electrons
+C) Electromagnetic induction
+D) Photoelectric effect
+Question: Which chemical element has the highest melting point?
+
+A) Tungsten
+B) Titanium
+C) Platinum
+D) Rhenium
+Question: What is the significance of the Casimir effect in quantum physics?
+
+A) Generation of Hawking radiation
+B) Attraction between uncharged plates in a vacuum
+C) Discovery of dark energy
+D) Indication of parallel universes
+
+_____________________________________________________________________________
+
+Answer sheet
+EASY
+1. B) H2O
+2. B) Mars
+3. B) Mitochondria
+4. C) Carbon dioxide
+5. B) Au
+6. B) Gravity
+7. B) Nitrogen
+8. A) Pumping blood
+9. B) Proxima Centauri
+10. B) Solar
+
+MEDIUM
+B) Regulation of blood sugar
+A) CH3
+B) Carbon
+B) Photosynthesis
+C) X-rays
+A) Carrying oxygen
+B) Isaac Newton
+C) Ozone
+C) Electron
+C) Skin
+
+
+HARD
+
+A) You cannot know the position and momentum of a particle simultaneously
+D) Electron
+A) Invisible matter that emits no light
+B) Refraction
+B) Supernova
+B) Giving mass to elementary particles
+B) Mesozoic Era
+B) Tunneling effect of electrons
+A) Tungsten
+B) Attraction between uncharged plates in a vacuum

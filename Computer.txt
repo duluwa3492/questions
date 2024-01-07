@@ -1,0 +1,237 @@
+Question: What does CPU stand for?
+
+A) Central Processing Unit
+B) Computer Processing Unit
+C) Central Processor Unit
+D) Computer Processor Unit
+Question: Which of the following is a type of volatile memory?
+
+A) Hard Disk
+B) RAM (Random Access Memory)
+C) SSD (Solid State Drive)
+D) CD-ROM
+Question: What is the full form of HTML?
+
+A) Hyper Transfer Markup Language
+B) Hyper Text Makeup Language
+C) Hyperlink and Text Markup Language
+D) HyperText Markup Language
+Question: Which company developed the Windows operating system?
+
+A) Apple
+B) Microsoft
+C) IBM
+D) Linux
+Question: What is the primary purpose of an operating system?
+
+A) Running applications
+B) Managing hardware resources
+C) Storing data
+D) Creating documents
+Question: What does the acronym URL stand for?
+
+A) Uniform Resource Locator
+B) Universal Resource Locator
+C) Unified Resource Locator
+D) Unique Resource Locator
+Question: Which programming language is commonly used for web development?
+
+A) Java
+B) C++
+C) Python
+D) JavaScript
+Question: What is the function of a firewall in computer security?
+
+A) Protecting against viruses
+B) Monitoring network traffic
+C) Filtering internet content
+D) Preventing unauthorized access
+Question: Which file format is used for compressed files?
+
+A) MP3
+B) JPEG
+C) ZIP
+D) EXE
+Question: What does PDF stand for?
+
+A) Portable Document Format
+B) Personal Document Format
+C) Print Document Format
+D) Program Design Format
+_____________________________________________________________________________
+MEDIUM
+
+Question: What is the purpose of an operating system?
+
+A) Managing hardware resources
+B) Running applications
+C) Both A and B
+D) None of the above
+Question: In computer programming, what does the acronym IDE stand for?
+
+A) Integrated Development Environment
+B) Interactive Design Environment
+C) Intelligent Development Engine
+D) Integrated Design Engine
+Question: What is the role of RAM in a computer?
+
+A) Long-term storage of data
+B) Temporary storage for running programs
+C) Backup storage for files
+D) Managing network connections
+Question: What does RAID stand for in the context of data storage?
+
+A) Redundant Array of Independent Disks
+B) Random Access Input Device
+C) Rapid Application and Information Delivery
+D) Relational Archive of Indexed Data
+Question: Which programming language is often used for artificial intelligence (AI) applications?
+
+A) Java
+B) Python
+C) C++
+D) Ruby
+Question: What is the purpose of a router in a computer network?
+
+A) Connecting devices within a local network
+B) Filtering incoming and outgoing network traffic
+C) Converting analog signals to digital signals
+D) Managing printer connections
+Question: What is SQL used for in the context of databases?
+
+A) Software Quality Testing
+B) Structured Query Language
+C) System Query Logic
+D) Storage and Query Language
+Question: Which type of malware disguises itself as legitimate software?
+
+A) Virus
+B) Worm
+C) Trojan horse
+D) Spyware
+Question: What is the function of the BIOS (Basic Input/Output System) in a computer?
+
+A) Managing file storage
+B) Loading the operating system during startup
+C) Creating graphical user interfaces
+D) Encrypting data
+Question: What does DNS stand for in the context of computer networks?
+
+A) Domain Name Server
+B) Dynamic Network Service
+C) Digital Network Security
+D) Data Naming System
+
+_____________________________________________________________________________
+
+HARD
+Question: What is the purpose of the BIOS (Basic Input/Output System) in a computer?
+
+A) Managing file storage
+B) Loading the operating system during startup
+C) Creating graphical user interfaces
+D) Encrypting data
+Answer: B) Loading the operating system during startup
+
+Question: What is the concept of "cache memory" in a computer system?
+
+A) Storage for permanent data
+B) Temporary storage for frequently accessed data
+C) Virtual memory used for multitasking
+D) Backup memory for system recovery
+Answer: B) Temporary storage for frequently accessed data
+
+Question: In computer networking, what does the term "subnetting" refer to?
+
+A) Assigning unique IP addresses to devices
+B) Dividing a large network into smaller, logical sub-networks
+C) Filtering incoming and outgoing traffic
+D) Creating secure connections between networks
+Answer: B) Dividing a large network into smaller, logical sub-networks
+
+Question: What is the primary function of a compiler in programming languages?
+
+A) Executing code line by line
+B) Translating high-level code to machine code
+C) Debugging software errors
+D) Creating user interfaces
+Answer: B) Translating high-level code to machine code
+
+Question: What is the significance of the term "Moore's Law" in computing?
+
+A) The speed of light is a limiting factor in data transfer
+B) The number of transistors on a chip doubles approximately every two years
+C) Quantum computers can surpass classical computers in processing power
+D) The cost of computer hardware decreases exponentially over time
+Answer: B) The number of transistors on a chip doubles approximately every two years
+
+Question: What does the term "P2P" stand for in the context of computer networks?
+
+A) Primary-to-Primary
+B) Peer-to-Peer
+C) Processor-to-Processor
+D) Protocol-to-Protocol
+Answer: B) Peer-to-Peer
+
+Question: In cybersecurity, what does the term "zero-day vulnerability" refer to?
+
+A) A vulnerability that exists for zero days
+B) A software vulnerability known to the public for zero days
+C) A flaw in software that has not yet been discovered or patched
+D) A type of encryption algorithm with zero vulnerabilities
+Answer: C) A flaw in software that has not yet been discovered or patched
+
+Question: What is the purpose of a "sandbox" in computer security?
+
+A) Testing new software in a controlled environment
+B) Blocking access to malicious websites
+C) Encrypting sensitive files
+D) Monitoring network traffic
+Answer: A) Testing new software in a controlled environment
+
+Question: What is the primary function of the Domain Name System (DNS) in computer networks?
+
+A) Assigning IP addresses to devices
+B) Resolving domain names to IP addresses
+C) Encrypting data during transmission
+D) Managing network security policies
+Answer: B) Resolving domain names to IP addresses
+
+Question: In cloud computing, what does the term "IaaS" stand for?
+
+A) Internet as a Service
+B) Infrastructure as a Service
+C) Integration as a Service
+D) Information as a Service
+Answer: B) Infrastructure as a Service
+
+
+_____________________________________________________________________________
+EASY
+A) Central Processing Unit
+B) RAM (Random Access Memory)
+D) HyperText Markup Language
+B) Microsoft
+C) Managing hardware resources
+A) Uniform Resource Locator
+D) JavaScript
+B) Monitoring network traffic
+C) ZIP
+A) Portable Document Format
+
+MEDIUM
+C) Both A and B
+A) Integrated Development Environment
+B) Temporary storage for running programs
+A) Redundant Array of Independent Disks
+B) Python
+B) Filtering incoming and outgoing network traffic
+B) Structured Query Language
+C) Trojan horse
+B) Loading the operating system during startup
+A) Domain Name Server
+
+
+
+
+

@@ -1,0 +1,236 @@
+EASY
+Question: What is the capital city of France?
+
+A) Berlin
+B) London
+C) Paris
+D) Rome
+Question: Who wrote "Romeo and Juliet"?
+
+A) William Shakespeare
+B) Charles Dickens
+C) Jane Austen
+D) Mark Twain
+Question: What is the largest planet in our solar system?
+
+A) Venus
+B) Jupiter
+C) Mars
+D) Saturn
+Question: In which year did the Titanic sink?
+
+A) 1905
+B) 1912
+C) 1923
+D) 1931
+Question: Which continent is known as the "Land of the Rising Sun"?
+
+A) Africa
+B) Asia
+C) Europe
+D) South America
+Question: What is the currency of Japan?
+
+A) Dollar
+B) Euro
+C) Yen
+D) Pound
+Question: Who is known as the "Father of Computers"?
+
+A) Steve Jobs
+B) Bill Gates
+C) Charles Babbage
+D) Tim Berners-Lee
+Question: What is the largest ocean on Earth?
+
+A) Atlantic Ocean
+B) Indian Ocean
+C) Pacific Ocean
+D) Southern Ocean
+Question: Which planet is known as the "Red Planet"?
+
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Question: What is the capital city of Australia?
+
+A) Sydney
+B) Melbourne
+C) Canberra
+D) Perth
+
+_____________________________________________________________________________
+
+MEDIUM
+
+Question: Which political party played a significant role in the establishment of the Federal Democratic Republic of Nepal in 2008?
+
+A) Nepali Congress
+B) Communist Party of Nepal (Unified Marxist–Leninist)
+C) Communist Party of Nepal (Maoist Center)
+D) Rastriya Prajatantra Party
+
+Question: Who is the current Prime Minister of Nepal as of 2024?
+
+A) K P Sharma Oli
+B) Sher Bahadur Deuba
+C) Pushpa Kamal Dahal (Prachanda)
+D) Sushil Koirala
+
+Question: What is the official language of Brazil?
+
+A) Spanish
+B) Portuguese
+C) Italian
+D) French
+Question: Who wrote the famous play "Hamlet"?
+
+A) William Shakespeare
+B) Anton Chekhov
+C) Henrik Ibsen
+D) Oscar Wilde
+Question: What is the currency of South Africa?
+
+A) Rand
+B) Peso
+C) Baht
+D) Zloty
+Question: In which year did India gain independence from British rule?
+
+A) 1942
+B) 1947
+C) 1950
+D) 1962
+Question: Which country is known as the "Land of the Rising Sun"?
+
+A) China
+B) Japan
+C) South Korea
+D) Vietnam
+Question: What is the primary language spoken in the Canadian province of Quebec?
+
+A) English
+B) French
+C) Spanish
+D) German
+Question: Who is the author of the book "To Kill a Mockingbird"?
+
+A) J.K. Rowling
+B) Harper Lee
+C) George Orwell
+D) Ernest Hemingway
+Question: Which river is the longest in the world?
+
+A) Nile
+B) Amazon
+C) Yangtze
+D) Mississippi
+
+____________________________________________________________________________________________________________________________________________________________
+
+HARD
+
+
+Question: What is the current estimated age of the universe, according to modern cosmology?
+
+A) 5 billion years
+B) 13.8 billion years
+C) 20 billion years
+D) 100 billion years
+Question: In quantum mechanics, what does the Heisenberg Uncertainty Principle state?
+
+A) You cannot know the position and momentum of a particle simultaneously
+B) Electrons can exist in multiple states at once
+C) Energy and time are always uncertain
+D) The speed of light is constant in a vacuum
+Question: What is the process by which a star exhausts its nuclear fuel and collapses under its own gravity?
+
+A) Nuclear fusion
+B) Supernova
+C) Black hole formation
+D) Stellar nucleosynthesis
+
+Question: What is the primary function of the Higgs boson in particle physics?
+
+A) Transmitting electromagnetic force
+B) Giving mass to elementary particles
+C) Mediating strong nuclear force
+D) Inducing radioactive decay
+
+Question: Which chemical element has the highest melting point?
+
+A) Tungsten
+B) Titanium
+C) Platinum
+D) Rhenium
+Question: What is the name of the phenomenon responsible for the bending of light as it passes through a medium with varying density?
+
+A) Diffraction
+B) Refraction
+C) Reflection
+D) Dispersion
+
+Question: In which year did Nepal officially become a secular state, separating religion from the state?
+
+A) 2006
+B) 2008
+C) 2015
+D) 2018
+Question: What is the highest point in Nepal, and how high is it?
+
+A) Mount Lhotse, 8,516 meters
+B) Mount Everest, 8,848 meters
+C) Mount Makalu, 8,463 meters
+D) Mount Annapurna, 8,091 meters
+Question: Which river is the longest in Nepal?
+
+A) Kosi River
+B) Gandaki River
+C) Karnali River
+D) Bagmati River
+
+Question: Which geological era is known as the "Age of Dinosaurs"?
+
+A) Paleozoic Era
+B) Mesozoic Era
+C) Cenozoic Era
+D) Precambrian Era
+
+____________________________________________________________________________________________________________________________________________________________
+EASY
+C) Paris
+A) William Shakespeare
+B) Jupiter
+B) 1912
+B) Asia
+C) Yen
+C) Charles Babbage
+C) Pacific Ocean
+B) Mars
+C) Canberra
+
+
+MEDIUM
+C) Communist Party of Nepal (Maoist Center)
+A) K P Sharma Oli
+B) Portuguese
+A) William Shakespeare
+A) Rand
+B) 1947
+B) Japan
+B) French
+B) Harper Lee
+A) Nile
+
+HARD
+B) 13.8 billion years
+A) You cannot know the position and momentum of a particle simultaneously
+B) Supernova
+B) Giving mass to elementary particles
+A) Tungsten
+B) Refraction
+C) 2015
+B) Mount Everest, 8,848 meters
+C) Karnali River
+B) Mesozoic Era
